@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### NAME : DHANUSH S
+### REG NO :212221230020
+### DATE: 05.05.24
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,11 @@ for this purpose.
 
 
 ### Output:
+![image](https://github.com/Kadinsamson/WDM_EXP9/assets/94525955/2244d1a0-359f-46cd-864d-02a097eb2264)
+![image](https://github.com/Kadinsamson/WDM_EXP9/assets/94525955/95479d76-8384-40c6-a930-44286629ee4f)
+![image](https://github.com/Kadinsamson/WDM_EXP9/assets/94525955/5bf95d33-7d85-4f43-94a1-05eeeefa99ce)
+![image](https://github.com/Kadinsamson/WDM_EXP9/assets/94525955/33927ed7-37d6-4adc-b07b-da0f1d6b4cff)
 
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
+
