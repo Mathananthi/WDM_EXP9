@@ -1,7 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### NAME : DHANUSH S
-### REG NO :212221230020
-### DATE: 05.05.24
+### NAME : MATHAN M
+### REG NO :212221040102
+### DATE:  30.8.24
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
